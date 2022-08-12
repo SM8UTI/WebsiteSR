@@ -9,7 +9,7 @@
   
 </center>
 <center>
-  <img src="screen.png" style="width:50%;height:50%;">
+  <img src="screen.png" style="width:100%">
 </center>
 
 </body>
